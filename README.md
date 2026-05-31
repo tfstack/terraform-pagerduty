@@ -1,4 +1,4 @@
-# terraform-pagerduty
+# terraform-pagerduty-platform
 
 Terraform modules for PagerDuty incident management and alert routing. The repository uses a multi-module layout so you can use only what you need.
 
