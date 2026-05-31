@@ -1,0 +1,7 @@
+# markdownlint: https://github.com/DavidAnson/markdownlint
+# Shared by CI and the VS Code markdownlint extension (Format Document).
+default: true
+# MD013 (line-length): disabled — long lines are common in README tables and terraform-docs output.
+MD013: false
+MD060:
+  style: compact
